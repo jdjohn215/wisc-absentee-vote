@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+raw-data
+wisc-absentee-vote.Rproj
+AllResults_ReportingUnit.csv
